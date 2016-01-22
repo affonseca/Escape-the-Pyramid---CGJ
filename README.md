@@ -6,3 +6,8 @@ A computer graphics project with implementation of multiple techniques such as:
   - Model Importing
   - Model Picking
   - Snapshots
+
+Work by:
+André Fonseca
+Daniel Rodrigues
+Samuel Gomes
