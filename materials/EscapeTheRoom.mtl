@@ -1,0 +1,24 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl _1
+Ns 80
+Ka 0.400000 0.400000 0.400000
+Kd 0.560784 0.435294 0.211765
+Ks 0.330000 0.330000 0.330000
+map_Kd EscapeTheRoom/_1.png
+
+newmtl FrontColor
+Ns 80
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _4
+Ns 80
+Ka 0.500000 0.500000 0.500000
+Kd 0.788235 0.592157 0.380392
+Ks 0.330000 0.330000 0.330000
+map_Kd EscapeTheRoom/_4.jpg
+

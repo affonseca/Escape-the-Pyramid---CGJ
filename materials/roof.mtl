@@ -1,0 +1,12 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl material_4.001
+Ns 80
+Ka 0.400000 0.400000 0.400000
+Kd 0.560784 0.435294 0.211765
+Ks 0.330000 0.330000 0.330000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd roof/material_4.jpg

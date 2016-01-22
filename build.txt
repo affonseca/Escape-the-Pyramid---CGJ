@@ -1,0 +1,3 @@
+- Open the project by double clicking the file "Escape The Room.sln";
+- On the solution configuration options drop-down menu switch from "Debug" to "Release" if needed;
+- Press the button "Local Windows Debugger" and the demo should start.

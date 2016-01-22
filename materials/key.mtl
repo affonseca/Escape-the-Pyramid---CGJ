@@ -1,0 +1,11 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Aluminum
+Ns 80
+Ka 0.400000 0.400000 0.400000
+Kd 0.560784 0.435294 0.211765
+Ks 0.330000 0.330000 0.330000
+map_Kd key/Aluminum.jpg
+

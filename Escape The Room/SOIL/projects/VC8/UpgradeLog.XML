@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SOIL">
+</Property><Property Name="Solution File" Value="C:\Users\Transrodel\Dropbox\CG\proj parte 3\SOIL\projects\VC8\SOIL.sln">
+</Property><Property Name="Date" Value="quinta-feira, 20 de Novembro de 2014">
+</Property><Property Name="Time" Value="13:04">
+</Property></Properties><Event ErrorLevel="0" Project="SOIL" Source="SOIL.vcproj" Description="Converting project file 'C:\Users\Transrodel\Dropbox\CG\proj parte 3\SOIL\projects\VC8\SOIL.vcproj'.">
+</Event><Event ErrorLevel="1" Project="SOIL" Source="SOIL.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="1" Project="SOIL" Source="SOIL.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="SOIL" Source="SOIL.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="SOIL" Source="SOIL.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="SOIL" Source="SOIL.vcproj" Description="Done converting to new project file 'C:\Users\Transrodel\Dropbox\CG\proj parte 3\SOIL\projects\VC8\SOIL.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="SOIL" Source="SOIL.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SOIL.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SOIL.sln" Description="Converted">
+</Event></UpgradeLog>

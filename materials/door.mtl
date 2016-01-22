@@ -1,0 +1,10 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Stone_Masonry_Multi
+Ns 80
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+map_Kd CGJ\\door\\Stone_Masonry_Multi.jpg
