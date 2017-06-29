@@ -9,5 +9,5 @@ A computer graphics project with implementation of multiple techniques such as:
 
 Work by:
   - André Fonseca - [@affonseca](https://github.com/affonseca)
-  - Daniel Rodrigues - 
+  - Daniel Rodrigues - [@theevilman](https://github.com/theevilman)
   - Samuel Gomes - [@SamGomes](https://github.com/SamGomes)
