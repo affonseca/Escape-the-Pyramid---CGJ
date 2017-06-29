@@ -8,6 +8,6 @@ A computer graphics project with implementation of multiple techniques such as:
   - Snapshots
 
 Work by:
-  - André Fonseca
-  - Daniel Rodrigues
-  - Samuel Gomes
+  - André Fonseca - [@affonseca](https://github.com/affonseca)
+  - Daniel Rodrigues - 
+  - Samuel Gomes - [@SamGomes](https://github.com/SamGomes)
